@@ -14,17 +14,17 @@
 
 **[23.05.2006]** *[Microsoft]* Jake Oshins. Device Virtualization Architecture. WinHec 2006. [Link](http://web.archive.org/web/20170808015836/https://cs.nyu.edu/courses/fall14/CSCI-GA.3033-010/Microsoft-Virtual-Devices.pdf)  
 **[01.08.2007]** *[Microsoft]* Brandon Baker. Windows Server Virtualization and The Windows Hypervisor. [Link](https://www.blackhat.com/presentations/bh-usa-07/Baker/Presentation/BH07_Baker_WSV_Hypervisor_Security.pdf)  
-**[19.01.2011]** Matt Suiche [(@msuiche)](https://twitter.com/msuiche). LiveCloudKd. Your cloud is on my pocket. BlackHat DC 2011. [Link](http://web.archive.org/web/20191203180235/https://media.blackhat.com/bh-dc-11/Suiche/BlackHat_DC_2011_Suiche_Cloud%20Pocket-Slides.pdf)  
+**[19.01.2011]** Matt Suiche [(@msuiche)](https://twitter.com/msuiche). LiveCloudKd. Your cloud is on my pocket. BlackHat DC 2011. [Link. Web Archive](http://web.archive.org/web/20191203180235/https://media.blackhat.com/bh-dc-11/Suiche/BlackHat_DC_2011_Suiche_Cloud%20Pocket-Slides.pdf)  
 **[14.06.2011]** Nicolas Economou [(@nicoeconomou)](https://twitter.com/nicoeconomou). Hyper-V Vmbus persistent DoS vulnerability. [Link](https://www.coresecurity.com/content/hyperv-vmbus-persistent-dos-vulnerability)  
 **[04.09.2013]** Arthur Khudyaev [(@gerhart_x)](https://twitter.com/gerhart_x). Hyper-V debugging for beginners. [Link](https://www.securitylab.ru/contest/444112.php). [English version](https://hvinternals.blogspot.com/2015/10/hyper-v-debugging-for-beginners.html)  
 **[08.01.2014]** Arthur Khudyaev [(@gerhart_x)](https://twitter.com/gerhart_x). Hyper-V debugging for beginners. Part 2 or half disclosure of MS13-092 (1-day exploit research). [Link](https://www.securitylab.ru/contest/448457.php). [English version](https://hvinternals.blogspot.com/2017/10/hyper-v-debugging-for-beginners-part-2.html)  
 **[02.06.2014]** Felix Wilhelm [(@_fel1x)](https://twitter.com/_fel1x), Matthias Luft [(@uchi_mata)](https://twitter.com/uchi_mata). Security Assessment of Microsoft Hyper-V. MS13-092 full disclosure. [Link](https://static.ernw.de/whitepaper/ERNW_Newsletter_43_HyperV_en.pdf)  
 **[29.05.2014]** Felix Wilhelm [(@_fel1x)](https://twitter.com/_fel1x), Matthias Luft  [(@uchi_mata)](https://twitter.com/uchi_mata), Enno Rey [(@enno_insinuator)](https://twitter.com/enno_insinuator). Compromise-as-a-Service. Our PleAZURE. HitB Ams 2014 [Link](https://www.ernw.de/download/ERNW_HITBAMS14_HyperV_fwilhelm_mluft_erey.pdf)  
-**[27.03.2015]** Alex Ionescu [(@aionescu)](https://twitter.com/aionescu). Ring 0 to Ring -1 Attacks. Hyper-V IPC Internals. [Link](http://web.archive.org/web/20190419095356/http://www.alex-ionescu.com/syscan2015.pdf)  
+**[27.03.2015]** Alex Ionescu [(@aionescu)](https://twitter.com/aionescu). Ring 0 to Ring -1 Attacks. Hyper-V IPC Internals. [Link. Web Archive](http://web.archive.org/web/20190419095356/http://www.alex-ionescu.com/syscan2015.pdf)  
 **[04.01.2016]** Hyper-V vmswitch.sys VmsMpCommonPvtHandleMulticastOids Guest to Host Kernel-Pool Overflow. [Link](https://bugs.chromium.org/p/project-zero/issues/detail?id=688)  
 **[04.01.2016]** Hyper-V vmswitch.sys VmsVmNicHandleRssParametersChange OOBR Guest to Host BugChecks. [Link](https://bugs.chromium.org/p/project-zero/issues/detail?id=689)  
 **[04.01.2016]** Hyper-V vmswitch.sys VmsPtpIpsecTranslateAddv2toAddv2Ex OOBR Guest to Host BugCheck. [Link](https://bugs.chromium.org/p/project-zero/issues/detail?id=690)  
-**[17.06.2017]** *[Microsoft]* Andrea Allievi [(@aall86)](https://twitter.com/aall86). The Hyper-V Architecture and its Memory Manager. [Link](http://www.andrea-allievi.com/files/Recon_2017_Montreal_HyperV_public.pptx)  
+**[17.06.2017]** *[Microsoft]* Andrea Allievi [(@aall86)](https://twitter.com/aall86). The Hyper-V Architecture and its Memory Manager. [Link. Web Archive](https://web.archive.org/web/20200103231355/https://www.andrea-allievi.com/files/Recon_2017_Montreal_HyperV_public.pptx)  
 **[22.03.2017]** Aleksandr Bazhaniuk [(@ABazhaniuk)](https://twitter.com/ABazhaniuk), Mikhail Gorobets [@mikhailgorobets](https://twitter.com/mikhailgorobets), Andrew Furtak, Yuriy Bulygin [@c7zero](https://twitter.com/c7zero). Attacking hypervisors through hardware emulation. [Link](https://www.troopers.de/downloads/troopers17/TR17_Attacking_hypervisor_through_hardwear_emulation.pdf)  
 **[09.08.2017]** Arthur Khudyaev [(@gerhart_x)](https://twitter.com/gerhart_x). Hyper-V sockets internals. [Link](https://xakep.ru/2017/08/09/hyper-v-internals). [English version](https://hvinternals.blogspot.com/2017/09/hyperv-socket-internals.html)  
 **[19.06.2018]** *[Microsoft]* Benjamin Armstrong [(@vbenarmstrong)](https://twitter.com/vbenarmstrong). Hyper-V API Overview. [Link](https://interopevents.blob.core.windows.net/events/2018/Redmond/Day%202/Track%201/docs/917318-2_21_1130_State%20of%20Hyper-V%20API%20World.pdf)  
@@ -35,16 +35,16 @@
 **[08.11.2018]** Yunhai Zhang [(@_f0rgetting_)](https://twitter.com/_f0rgetting_). Dive Into Windows Defender Application Guard. [Link](https://www.powerofcommunity.net/poc2018/yunhai.pdf)  
 **[10.12.2018]** *[Microsoft]* Saar Amar [(@AmarSaar)](https://twitter.com/AmarSaar). First Steps in Hyper-V Research. [Link](https://msrc.microsoft.com/blog/2018/12/first-steps-in-hyper-v-research/)  
 **[27.01.2019]** Alex Ionescu [(@aionescu)](https://twitter.com/aionescu). Writing a Hyper-V “Bridge” for Fuzzing — Part 2 : Hypercalls & MDLs. [Link](https://www.alex-ionescu.com/?p=471)  
-**[28.01.2019]** *[Microsoft]* Fuzzing para-virtualized devices in Hyper-V. [Link](https://blogs.technet.microsoft.com/srd/2019/01/28/fuzzing-para-virtualized-devices-in-hyper-v/)  
-**[15.02.2019]** Amardeep Chana. Ventures into Hyper-V - Fuzzing hypercalls. [Link](https://labs.mwrinfosecurity.com/blog/ventures-into-hyper-v-part-1-fuzzing-hypercalls)  
+**[28.01.2019]** *[Microsoft]* Fuzzing para-virtualized devices in Hyper-V. [Link](https://msrc.microsoft.com/blog/2019/01/fuzzing-para-virtualized-devices-in-hyper-v/)  
+**[15.02.2019]** Amardeep Chana. Ventures into Hyper-V - Fuzzing hypercalls. [Link](https://labs.withsecure.com/publications/ventures-into-hyper-v-part-1-fuzzing-hypercalls)  
 **[15.02.2019]** *[Microsoft]* Daniel King [(@long123king)](https://twitter.com/long123king), Shawn Denbow [@sdenbow](https://twitter.com/sdenbow). Growing Hypervisor 0day with Hyperseed. [Link](https://github.com/Microsoft/MSRC-Security-Research/blob/master/presentations/2019_02_OffensiveCon/2019_02%20-%20OffensiveCon%20-%20Growing%20Hypervisor%200day%20with%20Hyperseed.pdf)  
-**[25.03.2019]** Bruce Dang [(@brucedang)](https://twitter.com/brucedang). Some notes on identifying exit and hypercall handlers in Hyper-V. [Link](https://gracefulbits.com/2019/03/25/some-notes-on-identifying-exit-and-hypercall-handlers-in-hyperv) [Web-archive](http://web.archive.org/web/20200210200349/https://gracefulbits.com/2019/03/25/some-notes-on-identifying-exit-and-hypercall-handlers-in-hyperv/)  
+**[25.03.2019]** Bruce Dang [(@brucedang)](https://twitter.com/brucedang). Some notes on identifying exit and hypercall handlers in Hyper-V. [Link](https://gracefulbits.wordpress.com/2019/03/25/some-notes-on-identifying-exit-and-hypercall-handlers-in-hyperv/) [Link.Web Archive](http://web.archive.org/web/20200210200349/https://gracefulbits.com/2019/03/25/some-notes-on-identifying-exit-and-hypercall-handlers-in-hyperv/)  
 **[08.08.2019]** *[Microsoft]* Joe Bialek [(@josephbialek)](https://twitter.com/josephbialek). Exploiting the Hyper-V IDE Emulator to Escape the Virtual Machine. [Link](https://github.com/microsoft/MSRC-Security-Research/blob/master/presentations/2019_08_BlackHatUSA/BHUSA19_Exploiting_the_Hyper-V_IDE_Emulator_to_Escape_the_Virtual_Machine.pdf)  
 **[04.09.2019]** Arthur Khudyaev [(@gerhart_x)](https://twitter.com/gerhart_x). Hyper-V memory internals. Guest OS memory access   
 * [Russian version](https://www.securitylab.ru/contest/500796.php)   
 * [English version](https://hvinternals.blogspot.com/2019/09/hyper-v-memory-internals-guest-os-memory-access.html) [10.09.2019]
 
-**[11.09.2019]** *[Microsoft]* Saar Amar [(@AmarSaar)](https://twitter.com/AmarSaar). Attacking the VM Worker Process. [Link](https://msrc-blog.microsoft.com/2019/09/11/attacking-the-vm-worker-process/)  
+**[11.09.2019]** *[Microsoft]* Saar Amar [(@AmarSaar)](https://twitter.com/AmarSaar). Attacking the VM Worker Process. [Link](https://msrc.microsoft.com/blog/2019/09/attacking-the-vm-worker-process/)  
 **[14.05.2020]** Alisa Shevchenko [(@alisaesage)](https://twitter.com/alisaesage). Hyper-V Linux integration services description. [Link](https://re.alisa.sh/notes/Hyper-V-LIS.html)  
 **[04.06.2020]** Damien Aumaitre. Fuzz and Profit with WHVP. [Link](https://www.sstic.org/media/SSTIC2020/SSTIC-actes/fuzz_and_profit_with_whvp/SSTIC2020-Slides-fuzz_and_profit_with_whvp-aumaitre.pdf)  
 **[19.06.2020]** Arthur Khudyaev [(@gerhart_x)](https://twitter.com/gerhart_x). Hyper-V memory internals. EXO partition memory access. 
@@ -70,7 +70,7 @@
 * [Article](https://blog.quarkslab.com/a-virtual-journey-from-hardware-virtualization-to-hyper-vs-virtual-trust-levels.html) 
 * [Script from article](https://github.com/quarkslab/windbg-vtl)   
 
-**[04.08.2021]** Ophir Harpaz [(@OphirHarpaz)](https://twitter.com/OphirHarpaz), Peleg Hadar [(@peleghd)](https://twitter.com/peleghd). hAFL1 – Our Journey of Fuzzing Hyper-V and Discovering a Critical 0-Day. [Link](https://www.guardicore.com/labs/hafl1-our-journey-of-fuzzing-hyper-v-and-discovering-a-critical-0-day/). [Link Web Archive](http://web.archive.org/web/20220503161436/https://www.guardicore.com/labs/critical-vulnerability-in-hyper-v-allowed-attackers-to-exploit-azure/)  
+**[04.08.2021]** Ophir Harpaz [(@OphirHarpaz)](https://twitter.com/OphirHarpaz), Peleg Hadar [(@peleghd)](https://twitter.com/peleghd). hAFL1 – Our Journey of Fuzzing Hyper-V and Discovering a Critical 0-Day. [Link](https://www.guardicore.com/labs/hafl1-our-journey-of-fuzzing-hyper-v-and-discovering-a-critical-0-day/). [Link. Web Archive](http://web.archive.org/web/20220503161436/https://www.guardicore.com/labs/critical-vulnerability-in-hyper-v-allowed-attackers-to-exploit-azure/)  
 * Hyper-V’s virtual switch (vmswitch.sys) fuzzer. [Link](https://github.com/SB-GC-Labs/hAFL1)	  
 * Black Hat 2021 presentation. [Link](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Hafl1-Our-Journey-Of-Fuzzing-Hyper-V-And-Discovering-A-0-Day.pdf)  
 
@@ -90,7 +90,11 @@
 **[11.08.2022]** Zhenhao Hon [(@rthhh17)](https://twitter.com/rthhh17), Ziming Zhang [(@ezrak1e)](https://twitter.com/ezrak1e). DirectX: The New Hyper-V Attack Surface. [Link](https://i.blackhat.com/USA-22/Thursday/US-22-Hong-DirectX-The-New-Hyper-V-Attack-Surface.pdf)  
 **[08.12.2022]** Andrew Ruddick	[(@arudd1ck)](https://twitter.com/arudd1ck), Rohit Mothe [(@rohitwas)](https://twitter.com/rohitwas). Exploring a New Class of Kernel Exploit Primitive. [Link](https://i.blackhat.com/EU-22/Thursday-Briefings/EU-22-Ruddick-Exploring-a-New-Class-of-Kernel-Exploit-Primitive.pdf)  
 **[14.12.2022]** Ben Barnea [(@nachoskrnl)](https://twitter.com/nachoskrnl). CVE-2022-37998 and CVE-2022-37973 (DoS Microsoft Defender Application Guard, Sandbox) description. [Link](https://www.akamai.com/blog/security-research/msrpc-lsm-cve-disturbing-hosts-rest)   
-**[16.05.2023]** Aryan Xyrem [(@Xyrem256)](https://twitter.com/Xyrem256). Exploiting Windows vulnerabilities with Hyper-V: A Hacker’s swiss army knife. [Link](https://reversing.info/posts/hyperdeceit/)  
+**[16.05.2023]** Aryan Xyrem [(@Xyrem256)](https://twitter.com/Xyrem256). Exploiting Windows vulnerabilities with Hyper-V: A Hacker’s swiss army knife. [Link](https://reversing.info/posts/hyperdeceit/)   
+**[07.09.2023]** Francisco Falcon [(@fdfalcon)](https://twitter.com/fdfalcon). Debugging Windows Isolated User Mode (IUM) Processes. [Link](https://blog.quarkslab.com/debugging-windows-isolated-user-mode-ium-processes.html)  
+**[15.09.2023]** Matt Hand [(@matterpreter)](https://twitter.com/matterpreter). Hypervisor Detection with SystemHypervisorDetailInformation. [Link](https://medium.com/@matterpreter/hypervisor-detection-with-systemhypervisordetailinformation-26e44a57f80e)  
+**[08.10.2023]** [(@Pwndorei)](https://twitter.com/lkjuio3865) and [(@l0ch)](https://twitter.com/l0ch_pwn). Microsoft Hyper-V CVE-2018-0959 Analysis. Part1. [Link. Korean version](https://hackyboiz.github.io/2023/10/08/pwndorei/newjeans-hyper-v-pt2)  
+**[15.10.2023]** [(@Pwndorei)](https://twitter.com/lkjuio3865) and [(@l0ch)](https://twitter.com/l0ch_pwn). Microsoft Hyper-V CVE-2018-0959 Analysis. Part2. [Link. Korean version](https://hackyboiz.github.io/2023/10/15/pwndorei/newjeans-hyper-v-pt3)  
 
 [Microsoft] - research was made by employee of Hyper-V creators company
 
@@ -126,10 +130,10 @@ I'm not specalized in VBS, which is Hyper-V based security mechanism, therefore 
 
 [2015] Alex Ionescu [(@aionescu)](https://twitter.com/aionescu). BATTLE OF SKM AND IUM. [Link](http://web.archive.org/web/20190728160948/http://www.alex-ionescu.com/blackhat2015.pdf)  
 [2015] Guillaume C. Windows 10 VSM Présentation des nouveautés et implémentations. [Link](https://www.ossir.org/bretagne/supports/2015/201512/win10vsm.pdf)  
-[2016] Rafal Wojtczuk. Analysis of the Attack Surface of Windows 10 Virtualization-Based Security]. [Presentation. ](https://www.blackhat.com/docs/us-16/materials/us-16-Wojtczuk-Analysis-Of-The-Attack-Surface-Of-Windows-10-Virtualization-Based-Security.pdf)
+[2016] Rafal Wojtczuk. Analysis of the Attack Surface of Windows 10 Virtualization-Based Security]. [Presentation](https://www.blackhat.com/docs/us-16/materials/us-16-Wojtczuk-Analysis-Of-The-Attack-Surface-Of-Windows-10-Virtualization-Based-Security.pdf)
 [Whitepaper](https://www.blackhat.com/docs/us-16/materials/us-16-Wojtczuk-Analysis-Of-The-Attack-Surface-Of-Windows-10-Virtualization-Based-Security-wp.pdf)  
-[2017] Adrien Chevalier [(@0x00_ach)](https://twitter.com/0x00_ach). Virtualization Based Security - Part 1: The boot process. [Link](https://blog.amossys.fr/virtualization-based-security-part1.html)  
-[2017] Adrien Chevalier [(@0x00_ach)](https://twitter.com/0x00_ach). Virtualization Based Security - Part 2: kernel communications. [Link](https://blog.amossys.fr/virtualization-based-security-part2.html)  
+[2017] Adrien Chevalier [(@0x00_ach)](https://twitter.com/0x00_ach). Virtualization Based Security - Part 1: The boot process. [Link. Web Archive](http://web.archive.org/web/20210619092627/http://blog.amossys.fr/virtualization-based-security-part1.html)  
+[2017] Adrien Chevalier [(@0x00_ach)](https://twitter.com/0x00_ach). Virtualization Based Security - Part 2: kernel communications. [Link. Web Archive](http://web.archive.org/web/20201111203054/https://blog.amossys.fr/virtualization-based-security-part2.html)  
 [2017] Hans Kristian Brendmo. Live forensics on the Windows 10 secure kernel. [Link](https://pdfs.semanticscholar.org/e275/cc28c5c8e8e158c45e5e773d0fa3da01e118.pdf)  
 [2018] Alex Ionescu [(@aionescu)](https://twitter.com/aionescu), David Weston [@dwizzzleMSFT](https://twitter.com/dwizzzleMSFT). Inside the Octagon. Analyzing System Guard Runtime Attestation. OPCDE 2018. [Link](http://web.archive.org/web/20180808153201/http://alex-ionescu.com/Publications/OPCDE/octagon.pdf)  
 [2018] [Microsoft] Saar Amar [(@AmarSaar)](https://twitter.com/AmarSaar). VBS and VSM Internals. BlueHat IL 2018. [Link](https://github.com/saaramar/Publications/blob/master/BluehatIL_VBS_meetup/VBS_Internals.pdf)  
@@ -147,27 +151,24 @@ I'm not specalized in VBS, which is Hyper-V based security mechanism, therefore 
 [17.01.2022] Yarden Shafir [(@yarden_shafir)](https://twitter.com/yarden_shafir). HyperGuard – Secure Kernel Patch Guard: Part 2 – SKPG Extents. [Link](https://windows-internals.com/hyperguard-secure-kernel-patch-guard-part-2-skpg-extents/)  
 [19.04.2022] Yarden Shafir [(@yarden_shafir)](https://twitter.com/yarden_shafir). HyperGuard Part 3 – More SKPG Extents. [Link](https://windows-internals.com/hyperguard-part-3-more-skpg-extents/)  
 [08.09.2022] James Forshaw [(@tiraniddo)](https://twitter.com/tiraniddo). Windows: Credential Guard KerbIumGetNtlmSupplementalCredential Information Disclosure. [Link](https://bugs.chromium.org/p/project-zero/issues/detail?id=2306)  
-[30.12.2022] Worawit Wang [(@sleepya_)](https://twitter.com/sleepya_). Code Execution against Windows HVCI.[Link](https://datafarm-cybersecurity.medium.com/code-execution-against-windows-hvci-f617570e9df0)  
+[30.12.2022] Worawit Wang [(@sleepya_)](https://twitter.com/sleepya_). Code Execution against Windows HVCI.[Link](https://datafarm-cybersecurity.medium.com/code-execution-against-windows-hvci-f617570e9df0)
 
 # &nbsp;Hyper-V related free and open source utilities, scripts 
 
 [2013-2023] Arthur Khudyaev [(@gerhart_x)](https://twitter.com/gerhart_x)
-* Files and scripts to "Hyper-V debugging for beginners (2013)" article. [Link](https://yadi.sk/d/jJJGTL7xCuFAV)
-* Files and scripts to "Hyper-V internals (2015)" article. [Link](https://yadi.sk/d/4xw2Y4UHOhdvcw)
-* Files and scripts to "Hyper-V debugging for beginners. 2nd edition (2020)" article. [Link](https://github.com/gerhart01/Hyper-V-scripts/tree/master/Hyper-V-debugging.%202nd-edition)
 * LiveCloudKd. [Link](https://github.com/gerhart01/LiveCloudKd)
 * LiveCloudKd SDK. [Link](https://github.com/gerhart01/LiveCloudKd/tree/master/LiveCloudKdSdk)
   * LiveCloudKd Python SDK. [Link](https://github.com/gerhart01/LiveCloudKd/tree/master/LiveCloudKdPy)
   * LiveCloudKd SDK examples. [Link](https://github.com/gerhart01/LiveCloudKd/tree/master/LiveCloudKdExample)
 * Native Hyper-V reading memory example driver. [Link](https://github.com/gerhart01/LiveCloudKd/tree/master/hvmm)
-* CVE-2020-0890 PoC sources and binary (Windows Hyper-V Denial of Service Vulnerability) [Link](https://github.com/gerhart01/hyperv_local_dos_poc)
+* CVE-2020-0890 PoC sources with binary (Windows Hyper-V Denial of Service Vulnerability) [Link](https://github.com/gerhart01/hyperv_local_dos_poc)
 * Hyper-V integration plugin for MemProcFS by [@UlfFrisk](https://twitter.com/UlfFrisk). 
   * Source code. [Link](https://github.com/gerhart01/LiveCloudKd/tree/master/leechcore_device_hvmm). 
-  * Plugin description from [@UlfFrisk](https://twitter.com/UlfFrisk). [Link](https://github.com/ufrisk/LeechCore/wiki/Device_LiveCloudKd). [Distributive](https://github.com/gerhart01/LiveCloudKd/releases/download/v2.5.5.20220914/leechcore_hyperv_plugin_14.09.2022.zip)     
+  * Plugin description from [@UlfFrisk](https://twitter.com/UlfFrisk). [Link](https://github.com/ufrisk/LeechCore/wiki/Device_LiveCloudKd). [Distributive](https://github.com/gerhart01/LiveCloudKd/releases/download/v1.2.20230913/leechcore_hyperv_plugin_13.09.2023.zip)     
 * LiveCloudKd EXDi plugin source code. [Link](https://github.com/gerhart01/LiveCloudKd/tree/master/ExdiKdSample)  
 * LiveCloudKd EXDi plugin for Windows Secure Kernel debugging. [Link](https://github.com/gerhart01/LiveCloudKd/blob/master/ExdiKdSample/LiveDebugging.md)
 * LiveCloudKd EXDi static plugin for reading and writing Hyper-V memory [Link](https://github.com/gerhart01/LiveCloudKd/releases/download/v2.5.5.20230530/LiveCloudKd.v2.5.5.20220530-release.zip)
-* Hypercalls extractor - tool for getting hypercalls from native binaries. [Link](https://github.com/gerhart01/Hyper-V-Tools/tree/main/Extract.Hvcalls)
+* Hvcalls GUI - tool for extracting hypercalls from native Windows binaries. [Link](https://github.com/gerhart01/Hyper-V-Tools/tree/main/Extract.Hvcalls)
 * Radare2 build for displaying Hyper-V internals information through kd connection [Link](https://yadi.sk/d/eDAD9gIMEcAYEg)  
 * Hyper-V integration plugin for volatility [Link](https://github.com/gerhart01/Hyper-V-Tools/tree/main/Plugin_for_volatility). [Distributive](https://github.com/gerhart01/Hyper-V-Tools/releases/download/1.0.20221109/Hyper-V.Memory.Manager.plugin.for.volatility.v1.0.20221109.zip) 
 * Scripts for Hyper-V researching: [Link](https://github.com/gerhart01/Hyper-V-scripts)
@@ -181,6 +182,9 @@ I'm not specalized in VBS, which is Hyper-V based security mechanism, therefore 
 	 * Scripts for Hyper-V sockets analysis (scripts were written for Hyper-V sockets internals article)
 	 	* AfdEndpointListHead parsing [Link](https://github.com/gerhart01/Hyper-V-scripts/blob/master/ParseAfdEndpointListHead.py)	
 		* AfdTlTransportListHead parsing [Link](https://github.com/gerhart01/Hyper-V-scripts/blob/master/ParseAfdTlTransportListHead.py)
+* Files and scripts to "Hyper-V debugging for beginners (2013)" article. [Link](https://yadi.sk/d/jJJGTL7xCuFAV)
+* Files and scripts to "Hyper-V internals (2015)" article. [Link](https://yadi.sk/d/4xw2Y4UHOhdvcw)
+* Files and scripts to "Hyper-V debugging for beginners. 2nd edition (2020)" article. [Link](https://github.com/gerhart01/Hyper-V-scripts/tree/master/Hyper-V-debugging.%202nd-edition)
 		
 [2014] Marc-André Moreau [(@awakecoding)](https://twitter.com/awakecoding). Hyper-V VmBusPipe [Link](https://github.com/awakecoding/VMBusPipe) 
 
