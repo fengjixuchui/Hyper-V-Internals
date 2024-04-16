@@ -6,7 +6,7 @@
 		- [ WDK](#wdk)
 		- [ SDK](#sdk)
 - [ VBS\\VSM researches](#vbsvsm-researches)
-- [ Hyper-V related free and open source utilities, scripts](#hyper-v-related-free-and-open-source-utilities-scripts)
+- [ Hyper-V related free and open source utilities, scripts, schemes](#hyper-v-related-free-and-open-source-utilities-scripts-schemes)
 - [ Software and tools, working with Hyper-V](#software-and-tools-working-with-hyper-v)
 - [ Other sources, interesting links and Hyper-V related materials](#other-sources-interesting-links-and-hyper-v-related-materials)
 
@@ -14,7 +14,7 @@
 
 **[23.05.2006]** *[Microsoft]* Jake Oshins. Device Virtualization Architecture. WinHec 2006. [Link](http://web.archive.org/web/20170808015836/https://cs.nyu.edu/courses/fall14/CSCI-GA.3033-010/Microsoft-Virtual-Devices.pdf)  
 **[01.08.2007]** *[Microsoft]* Brandon Baker. Windows Server Virtualization and The Windows Hypervisor. [Link](https://www.blackhat.com/presentations/bh-usa-07/Baker/Presentation/BH07_Baker_WSV_Hypervisor_Security.pdf)  
-**[19.01.2011]** Matt Suiche [(@msuiche)](https://twitter.com/msuiche). LiveCloudKd. Your cloud is on my pocket. BlackHat DC 2011. [Link. Web Archive](http://web.archive.org/web/20191203180235/https://media.blackhat.com/bh-dc-11/Suiche/BlackHat_DC_2011_Suiche_Cloud%20Pocket-Slides.pdf)  
+**[19.01.2011]** Matthieu Suiche [(msuiche.com)](https://www.msuiche.com). LiveCloudKd. Your cloud is on my pocket. BlackHat DC 2011. [Link](https://media.blackhat.com/bh-dc-11/Suiche/BlackHat_DC_2011_Suiche_Cloud%20Pocket-Slides.pdf)  
 **[14.06.2011]** Nicolas Economou [(@nicoeconomou)](https://twitter.com/nicoeconomou). Hyper-V Vmbus persistent DoS vulnerability. [Link](https://www.coresecurity.com/content/hyperv-vmbus-persistent-dos-vulnerability)  
 **[04.09.2013]** Arthur Khudyaev [(@gerhart_x)](https://twitter.com/gerhart_x). Hyper-V debugging for beginners. [Link](https://www.securitylab.ru/contest/444112.php). [English version](https://hvinternals.blogspot.com/2015/10/hyper-v-debugging-for-beginners.html)  
 **[08.01.2014]** Arthur Khudyaev [(@gerhart_x)](https://twitter.com/gerhart_x). Hyper-V debugging for beginners. Part 2 or half disclosure of MS13-092 (1-day exploit research). [Link](https://www.securitylab.ru/contest/448457.php). [English version](https://hvinternals.blogspot.com/2017/10/hyper-v-debugging-for-beginners-part-2.html)  
@@ -93,26 +93,29 @@
 **[16.05.2023]** Aryan Xyrem [(@Xyrem256)](https://twitter.com/Xyrem256). Exploiting Windows vulnerabilities with Hyper-V: A Hacker’s swiss army knife. [Link](https://reversing.info/posts/hyperdeceit/)   
 **[07.09.2023]** Francisco Falcon [(@fdfalcon)](https://twitter.com/fdfalcon). Debugging Windows Isolated User Mode (IUM) Processes. [Link](https://blog.quarkslab.com/debugging-windows-isolated-user-mode-ium-processes.html)  
 **[15.09.2023]** Matt Hand [(@matterpreter)](https://twitter.com/matterpreter). Hypervisor Detection with SystemHypervisorDetailInformation. [Link](https://medium.com/@matterpreter/hypervisor-detection-with-systemhypervisordetailinformation-26e44a57f80e)  
-**[08.10.2023]** [(@Pwndorei)](https://twitter.com/lkjuio3865) and [(@l0ch)](https://twitter.com/l0ch_pwn). Microsoft Hyper-V CVE-2018-0959 Analysis 
+**[08.10.2023]** [(@Pwndorei)](https://twitter.com/lkjuio3865) and [(@l0ch)](https://twitter.com/l0ch_pwn). Microsoft Hyper-V CVE-2018-0959 analysis 
   * [Part1 (Korean version)](https://hackyboiz.github.io/2023/10/08/pwndorei/newjeans-hyper-v-pt2)
   * [Part2 (Korean version)](https://hackyboiz.github.io/2023/10/15/pwndorei/newjeans-hyper-v-pt3)
   * [Part3 (Korean version)](https://hackyboiz.github.io/2023/10/22/pwndorei/newjeans-hyper-v-pt4)
-  * [Part4 (Korean version)](https://hackyboiz.github.io/2023/10/30/pwndorei/newjeans-hyper-v-pt5).[Video](https://www.youtube.com/watch?v=LvtNtkAll84&t=106s)  
+  * [Part4 (Korean version)](https://hackyboiz.github.io/2023/10/30/pwndorei/newjeans-hyper-v-pt5). [Video](https://www.youtube.com/watch?v=LvtNtkAll84&t=106s)  
   
-**[20.11.2023]** Satoshi Tanda [(@standa_t)](https://twitter.com/standa_t). Microsoft Hyper-V CVE-2023-36427 vulnerability description and PoC [Link](https://github.com/tandasat/CVE-2023-36427)  
+**[20.11.2023]** Satoshi Tanda [(@standa_t)](https://twitter.com/standa_t). Microsoft Hyper-V CVE-2023-36427 vulnerability description and PoC. [Link](https://github.com/tandasat/CVE-2023-36427)  
 	
 
 [Microsoft] - research was made by employee of Hyper-V creators company
 
 # &nbsp;MSDN and other Microsoft sources
 
-Managing Hyper-V hypervisor scheduler types. [Link](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/manage/manage-hyper-v-scheduler-types)  
-Hyper-V top level functional specification (web-version). [Link](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/tlfs/tlfs)  
-Hyper-V top level functional specifications [Link](https://github.com/MicrosoftDocs/Virtualization-Documentation/tree/live/tlfs)  
+Managing Hyper-V hypervisor scheduler types: [Link](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/manage/manage-hyper-v-scheduler-types)  
+Hyper-V top level functional specification (web-version): [Link](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/tlfs/tlfs)  
+Hyper-V top level functional specifications: [Link](https://github.com/MicrosoftDocs/Virtualization-Documentation/tree/live/tlfs)  
+Linux kernel for Hyper-V root partition [Link](https://lore.kernel.org/linux-hyperv/)  
+Windows Powershell modules: [Hyper-V sockets example](https://github.com/PowerShell/PowerShell/blob/master/src/System.Management.Automation/engine/remoting/common/RemoteSessionHyperVSocket.cs)  
 
 Host Compute Network (HCN) service API for VMs and containers: [Link](https://github.com/microsoft/hcsshim)  
 Windows classic samples (Hyper-V): [Link](https://github.com/microsoft/Windows-classic-samples/tree/main/Samples/Hyper-V)  
 SkTool - Hypervisor / Secure Kernel / Secure Mitigations Parser Tool from Windows SDK
+
 
 (Windows Internals book, Hyper-V TLFS, another MSDN docs are standard Hyper-V internals information sources)  
 
@@ -165,9 +168,9 @@ I'm not specalized in VBS, which is Hyper-V based security mechanism, therefore 
 [15.01.2024] Satoshi Tanda [(@standa_t)](https://twitter.com/standa_t). Hypervisor-Protected Code Integrity (HVCI) Security Feature Bypass Vulnerability disclosure
 (CVE-2024-21305). [Link](https://tandasat.github.io/blog/2024/01/15/CVE-2024-21305.html)
 
-# &nbsp;Hyper-V related free and open source utilities, scripts 
+# &nbsp;Hyper-V related free and open source utilities, scripts, schemes 
 
-[2013-2023] Arthur Khudyaev [(@gerhart_x)](https://twitter.com/gerhart_x)
+[2013-2024] Arthur Khudyaev [(@gerhart_x)](https://twitter.com/gerhart_x)
 * Files and scripts to "Hyper-V debugging for beginners (2013)" article. [Link](https://yadi.sk/d/jJJGTL7xCuFAV)
 * Files and scripts to "Hyper-V internals (2015)" article. [Link](https://yadi.sk/d/4xw2Y4UHOhdvcw)
 * Files and scripts to "Hyper-V debugging for beginners. 2nd edition (2020)" article. [Link](https://github.com/gerhart01/Hyper-V-scripts/tree/master/Hyper-V-debugging.%202nd-edition)
@@ -197,6 +200,7 @@ I'm not specalized in VBS, which is Hyper-V based security mechanism, therefore 
 	 * Scripts for Hyper-V sockets analysis (scripts were written for Hyper-V sockets internals article)
 	 	* AfdEndpointListHead parsing [Link](https://github.com/gerhart01/Hyper-V-scripts/blob/master/ParseAfdEndpointListHead.py)	
 		* AfdTlTransportListHead parsing [Link](https://github.com/gerhart01/Hyper-V-scripts/blob/master/ParseAfdTlTransportListHead.py)
+* Hyper-V components scheme (Windows 11 23H2) [Link](https://github.com/gerhart01/Hyper-V-Internals/blob/master/Hyper-V%20components%20(Windows%2011%2023H2).png)
   
 		
 [2014, 2024] Marc-André Moreau [(@awakecoding)](https://twitter.com/awakecoding). 
@@ -211,7 +215,7 @@ I'm not specalized in VBS, which is Hyper-V based security mechanism, therefore 
 * Simpleator ("Simple-ator") is an innovative Windows-centric x64 user-mode application emulator that leverages several new features that were added in Windows 10 Spring Update (1803). [Link](https://github.com/ionescu007/Simpleator).  
 * Hdk - Hyper-V development kit (unofficial). [Link](https://github.com/ionescu007/hdk)  
 
-[2018] Matt Suiche [(@msuiche)](https://twitter.com/msuiche). LiveCloudKd [Link](https://github.com/msuiche/LiveCloudKd)
+[2018] Matthieu Suiche [(msuiche.com)](https://www.msuiche.com). LiveCloudKd [Link](https://github.com/msuiche/LiveCloudKd)
 
 [2019, 2021] Axel Souchet [(@0vercl0k)](https://twitter.com/0vercl0k). 
 * Pywinhv. Python binding for the Microsoft Hypervisor Platform APIs. [Link](https://github.com/0vercl0k/pywinhv)
@@ -252,7 +256,6 @@ I'm not specalized in VBS, which is Hyper-V based security mechanism, therefore 
 
 
 Linux Integration Services (LIS). [Link](https://github.com/LIS)  
-Microsoft Linux kernel for Hyper-V root partition [Link](https://lore.kernel.org/linux-hyperv/)  
 MemProcFS. [Link](https://github.com/ufrisk/MemProcFS)  
 
 Qemu source code (WHPX support module). 
